@@ -26,4 +26,5 @@ void inc_salary(double percentage) {
 	salary=salary+increment;
 	System.out.println("employee salary increased by"+salary);
 }
-	
+}
+
